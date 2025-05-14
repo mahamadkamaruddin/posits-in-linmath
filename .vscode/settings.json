@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "platform.h": "c"
+    }
+}
