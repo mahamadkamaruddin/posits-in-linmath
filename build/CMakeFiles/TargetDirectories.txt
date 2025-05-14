@@ -1,3 +1,0 @@
-/workspaces/posits-in-linmath/build/CMakeFiles/rebuild_cache.dir
-/workspaces/posits-in-linmath/build/CMakeFiles/edit_cache.dir
-/workspaces/posits-in-linmath/build/CMakeFiles/metrics.dir
