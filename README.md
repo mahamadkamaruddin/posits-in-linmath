@@ -44,8 +44,3 @@ This repository is released under the [MIT License](https://opensource.org/licen
 ----------
 
 *   **Mahamad Kamaruddin**: Initial author and contributor.
-
-**Acknowledgments**
-------------------
-
-This work is based on the research and development of Posit arithmetic by the Posit Corporation and its contributors.
